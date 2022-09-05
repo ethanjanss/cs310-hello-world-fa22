@@ -9,4 +9,10 @@ public class Class2 {
         // v1.0
     }
 
+     private void f2() {
+        // v2.0
+    }
+
+    
+
 }
